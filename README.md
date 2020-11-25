@@ -22,6 +22,11 @@ Projeto CRUD com NodeJs - Backend
 
 - [x] Testes com Postman
 
+- [ ] Adicionar ORM (Knex)
+
+- [ ] Separar responsabilidades (Rotas, Models, Controllers) 
+
+
 ##  Bootstrap - FrontEnd
 
 ### Passos
@@ -32,4 +37,8 @@ Projeto CRUD com NodeJs - Backend
 
 - [x] Importando Bootstrap 
 
+- [ ] Criar Pagina para Adicionar usuario, alterar, deletar e procurar
 
+- [ ] Fazer chamadas da API, e retornar valores do banco no FrontEnd
+
+- [ ] Design Responsivo 
